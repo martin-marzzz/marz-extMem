@@ -1,16 +1,9 @@
 # Topic title
 
-**Date started:** YYYY-MM-DD
+**Date started:** 
 **Tags:** #
+**Links/Topic/References: **
 
-## Summary (in my own words)
+## Content 
 
-
-## Key points
--
-
-## Questions I still have
--
-
-## Sources
--
+## Summarise
