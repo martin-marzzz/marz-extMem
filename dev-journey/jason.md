@@ -23,19 +23,22 @@ It is used for the API responses, for website communication.
 **Metadata:** extra info about the result
 
 **Objects & Array**
-||**Object\{\}**|**Array\(\)**|
+| |**Object\{\}**|**Array\(\)**|
+|---|---|---|
 |Access by| name\(key\)|Position\(index 1,2,3\)|
 |Order|No guaranteed order|Keeps the order|
 |Used When|Have the named fields|Have the list of similar things|
 
 **Example:**
 
-'''bash
-\{
-  "orders": \[ ... \],
-  "metadata": \{ ... \},
+```
+```jason
+{
+  "orders": [ ... ],
+  "metadata": { ... },
   "totalResults": 2195
-\}
-'''
+}
+
+```
 
 ## Summarise
