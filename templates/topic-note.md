@@ -1,8 +1,10 @@
 # Topic title
 
 **Date started:** 
-**Tags:** #
-**Links/Topic/References: **
+
+**Tags:** ``
+
+**Links/Topic/References:**
 
 ## Content 
 
