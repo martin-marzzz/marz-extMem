@@ -1,8 +1,10 @@
 # Learn Website from Louisli site 
 
 **Date started:** 11-11-2026
+
 **Tags:** `Website` `Host` `Web-Server` `Domain-Name`
-**Links/Topic/References: ** https://louisli.xyz/
+
+**Links/Topic/References:** https://louisli.xyz/
 
 ## Content 
 
@@ -27,6 +29,8 @@ I used Grok to run on the site to see what legally can find with it.
 - **Islands Architecture:** Interactive component hydrate independently using directives, while the rest of the page stays static.   
 
 - **Modern Rust Tooling:** Rust-powered compiler and bundler integration, cutting build times significantly and adding stricter HTML validation. 
+
+## Web Tech Hierarchy
 
 > **Level 1: Pure HTML + CSS**
 > - Static pages written by hand
