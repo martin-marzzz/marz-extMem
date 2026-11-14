@@ -83,3 +83,19 @@ The connection is working!!
 
 <img src="img/samba-service-connected.png">
 
+But now has the permission issue I found.
+
+I wanted to test the function on the storage by creating and editing a test file from **Client** side. Here is the permission issue encountered. 
+
+The ownership on the `/mnt/storage` on the **server** side need to be fixed.
+
+It crowns the marting login can create file in the `storage`.
+
+**On Server**
+```bash
+sudo chown -R martin:martin /mnt/storage
+sudo chmod -R u+rwX,g+rwX /mnt/storage
+```
+
+So now the creation of new file is working. Also the storage dir on **Server** can be store files.
+
